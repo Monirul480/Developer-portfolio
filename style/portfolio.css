@@ -24,6 +24,9 @@
   background-position: bottom right,left;
 }
 /* header and navigation style */
+.monir{
+  height: 0px 80px;
+}
 nav{
   display: flex;
   justify-content: space-between;
